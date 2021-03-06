@@ -1,0 +1,4 @@
+*.csv
+responses
+.vscode
+pyNeuroRequest.py
